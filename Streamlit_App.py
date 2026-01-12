@@ -4,8 +4,8 @@ from scipy.stats import norm
 import matplotlib.pyplot as plt
 from PIL import Image
 
-import MathBrain_Options_Traditional as mb
-import MathBrain_Options_PINN as mbPINN
+import Options_Traditional as mb
+import Options_PINN as mbPINN
 
 import torch
 import torch.nn as nn
